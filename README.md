@@ -1,5 +1,6 @@
-# AluraFlix v1- ID3
+# IMERSÃO DEV_
+## AULA 4: ARRAY, LISTA E ALURAFLIX
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/wandsony/pen/VwroGoJ](https://codepen.io/wandsony/pen/VwroGoJ).
+
 
 
